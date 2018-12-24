@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangyiwen/Desktop/1819/sssx/mcp-test/main.cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+map
+-
+vector
+-
+cstdlib
+-
+cstring
+-
+fstream
+-
+
